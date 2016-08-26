@@ -1,0 +1,53 @@
+.countdown{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 300px;
+    height: 300px;
+    float: left;
+    border: 1px solid #000000;
+    text-align: center;
+    line-height: 303px;
+    border-radius: 50%;
+
+}
+.introduction{
+    float: left;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 550px;
+    height: 300px;
+    border: 1px solid #000000;
+    
+}
+
+.notice{
+    clear: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    width: 900px;
+    height: 500px;
+    border: 1px solid #000000;
+   
+}
+
+.clearfix:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+#label{
+    font-size: 60px;
+}
+
+#title {
+    overflow: hidden;
+}
+
+.a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}

@@ -1,0 +1,24 @@
+
+.club {
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 25px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid #000000;
+
+}
+
+<!--.animation{
+    position: relative;
+    width:300px;
+    float:left;
+}-->
+
+<!--#main .animation1 .caption{
+    position: absolute;
+    padding: 20px;
+    background: #e63c35;
+    height:300px;
+    width:300px;
+}-->
