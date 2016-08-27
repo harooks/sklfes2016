@@ -9,7 +9,22 @@
 
 }
 
+<<<<<<< HEAD
 
+=======
+.club .caption{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 300px;
+    display: none;
+}
+
+.club:hover .caption{
+    display: block;
+}
+>>>>>>> bf93858c64e00c8c92bbae0a238fd2e1d1d3f488
 
 
 
