@@ -1,3 +1,9 @@
+main{
+    width: 970px;
+    background: url(back1.jpg);
+    padding: 20px;
+    margin-top: 20px;
+}
 
 .club {
     display: inline-block;
@@ -28,3 +34,5 @@
 .club:hover .caption{
     display: block;
 }
+
+
