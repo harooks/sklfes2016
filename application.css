@@ -29,15 +29,16 @@ nav a{
     font-size: 23px;
     text-align: center;
     text-decoration: none;
-    background-color: #00BFFF;
+    background-color: forestgreen;
     color: white;
     line-height: 50px;
 }
 nav a:hover{
-    background-color:#87CEFA;
+    background-color: limegreen;
 }
 nav a.selected {
-    background-color: red;
+    background: url(back1.jpg);
+    color:black;
 }
 #wrapper{
     margin: auto;
@@ -54,6 +55,7 @@ nav a.selected {
 #title{
     width: 1010px;
     height: 350px;
+    color: white;
 }
 
 #main{

@@ -1,53 +1,12 @@
 body{
-    background-image: url(back1.jpg);
+    background-color: white;
     background-size: cover;
     overflow-x: hidden;
 }
 
-.countdown{
-    margin: 30px;
-    width: 300px;
-    height: 300px;
-    float: left;
-    border: 1px solid #000000;
-    text-align: center;
-    line-height: 303px;
-    border-radius: 50%;
-    background-color: white;
-
-}
-.introduction{
-    float: left;
-    margin: 30px;
-    width: 550px;
-    height: 300px;
-    border: 1px solid #000000;
-    
-}
-
-.notice{
-    clear: left;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-top: 50px;
-    width: 900px;
-    height: 500px;
-    border: 1px solid #000000;
-   
-}
-
-.clearfix:after {
-    content: "";
-    clear: both;
-    display: block;
-    width: auto;
-}
-#label{
-    font-size: 60px;
-}
-
 #title {
     overflow: hidden;
+    background-color: white;
 }
 
 .a {
@@ -59,11 +18,58 @@ body{
 
 main{
     width: 970px;
-    overflow: hidden;
-    background:rgba(100,169,169,0.7);
+    background: url(back1.jpg);
     padding: 20px;
-    float: right;
     margin-top: 20px;
 }
+
+.clearfix:after {
+    content: "";
+    clear: both;
+    display: block;
+    width: auto;
+}
+
+.countdown{
+    margin: 30px;
+    width: 300px;
+    height: 300px;
+    float: left;
+    border: 1px solid #000000;
+    text-align: center;
+    color: red;
+    line-height: 303px;
+    border-radius: 50%;
+    border-color: red;
+    background-color: white;
+}
+
+#label{
+    font-size: 60px;
+}
+
+.introduction{
+    float: left;
+    margin: 30px;
+    width: 550px;
+    height: 300px;
+    border: 1px solid #000000;
+}
+
+.notice{
+    clear: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    width: 900px;
+    height: 500px;
+    border: 1px solid #000000;
+}
+
+.notice img{
+    width: 300px;
+    padding: 20px;
+}
+
 
 

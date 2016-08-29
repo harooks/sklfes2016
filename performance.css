@@ -1,4 +1,3 @@
-
 .club {
     display: inline-block;
     margin-top: 25px;
@@ -6,16 +5,14 @@
     width: 300px;
     height: 300px;
     border: 1px solid #000000;
-
+    position: relative;
 }
 
-<<<<<<< HEAD
-
-=======
 .club .caption{
     position: absolute;
     top: 0;
     left: 0;
+<<<<<<< HEAD
     width: 300px;
     height: 300px;
     background-color: black;
@@ -23,8 +20,29 @@
 }
 
 .club:hover.caption{
+=======
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255,255,255,0.7);
+    display: none;
+}
+
+.club .caption p{
+    margin-top: 20px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.club:hover .caption{
+>>>>>>> cec2281d9bfbec586e78963f9ce4649c2d23711f
     display: block;
 }
+
+
+<<<<<<< HEAD
+
+=======
+
 >>>>>>> bf93858c64e00c8c92bbae0a238fd2e1d1d3f488
 
 
