@@ -1,9 +1,23 @@
+<<<<<<< HEAD
 .food{
     width: 960px;
     height: 300px;
     margin: auto;
     margin-left: 25px;
     margin-top: 25px;
+=======
+main{
+    width: 970px;
+    background: url(back1.jpg);
+    padding: 20px;
+}
+
+.food{
+    width: 960px;
+    height: 300px;
+    margin-left: 5px;
+    margin-top: 15px;
+>>>>>>> e5c04db0487d8751334d6b23b8ff894033b7b77f
     border: 1px solid #000000;
     
 }

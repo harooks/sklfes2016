@@ -1,7 +1,13 @@
+main{
+    width: 970px;
+    background: url(back1.jpg);
+    padding: 20px;
+}
+
 .club {
     display: inline-block;
-    margin-top: 25px;
-    margin-left: 25px;
+    margin-top: 15px;
+    margin-left: 15px;
     width: 300px;
     height: 300px;
     border: 1px solid #000000;

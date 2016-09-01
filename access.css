@@ -1,6 +1,30 @@
+body{
+    background-color: white;
+    background-size: cover;
+    overflow-x: hidden;
+    margin: 1px;
+}
+
+#title {
+    overflow: hidden;
+    background-color: white;
+}
+
+.a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+main{
+    width: 970px;
+    background: url(back1.jpg);
+    padding: 20px;
+}
+
 h2{
     margin: 0 auto;
-    width: 50px;
     
 }
 
