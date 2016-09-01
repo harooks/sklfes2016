@@ -1,10 +1,35 @@
-
-
 .food{
     width: 960px;
     height: 300px;
+    margin: auto;
     margin-left: 25px;
     margin-top: 25px;
     border: 1px solid #000000;
     
 }
+
+.food img{
+    float: right;
+}
+.food .comment {
+    width: 660px;
+    height: 100px;
+    
+}
+
+.food h2{
+    text-align: center;
+}
+
+.food p.memo{
+    font-size: 20px;
+    text-align: center;
+}
+
+.menu ul{
+    margin-left: 20px;
+}
+
+
+
+    
