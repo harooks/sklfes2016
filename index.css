@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-image: url(back3.png);
     background-size: cover;
     overflow-x: hidden;
     margin: 1px;
@@ -48,12 +48,11 @@ main{
     font-size: 60px;
 }
 
-.introduction{
+.introduction img{
     float: left;
     margin: 30px;
     width: 550px;
-    height: 300px;
-    border: 1px solid #000000;
+    height: 350px;
 }
 
 .notice{
