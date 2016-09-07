@@ -1,6 +1,5 @@
 body{
-    background-color: white;
-    background-size: cover;
+    background-image: url(back3.png);
     overflow-x: hidden;
     margin: 1px;
 }
@@ -34,6 +33,7 @@ h2{
     margin: 0 auto;
     margin-top: 10px;
 }
+
 .train{
     width: 800px;
     height: 500px;

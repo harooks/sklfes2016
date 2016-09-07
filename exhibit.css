@@ -1,6 +1,5 @@
 body{
-    background-color: white;
-    background-size: cover;
+    background-image: url(back3.png);
     overflow-x: hidden;
     margin: 1px;
 }

@@ -1,4 +1,16 @@
 
+body{
+    background-image: url(back3.png);
+    overflow-x: hidden;
+    margin: 1px;
+}
+
+main{
+    width: 970px;
+    background: url(back1.jpg);
+    padding: 20px;
+}
+
 .schedule img{
     margin: 0 auto;
     display: block;
@@ -6,10 +18,4 @@
 
 .schedule{
     margin-top: 25px;
-}
-
-main{
-    width: 970px;
-    background: url(back1.jpg);
-    padding: 20px;
 }

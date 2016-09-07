@@ -1,3 +1,9 @@
+body{
+    background-image: url(back3.png);
+    overflow-x: hidden;
+    margin: 1px;
+}
+
 main{
     width: 970px;
     background: url(back1.jpg);

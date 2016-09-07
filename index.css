@@ -1,6 +1,6 @@
+
 body{
     background-image: url(back3.png);
-    background-size: cover;
     overflow-x: hidden;
     margin: 1px;
 }
@@ -55,7 +55,7 @@ main{
     height: 350px;
 }
 
-.notice{
+.poster{
     clear: left;
     margin-left: 50px;
     margin-right: 50px;
@@ -65,7 +65,11 @@ main{
     border: 1px solid #000000;
 }
 
-.notice img{
+.poster p{
+    font-size: 20px;
+}
+
+.poster img{
     width: 300px;
     padding: 20px;
 }
