@@ -35,13 +35,14 @@ main{
     width: 300px;
     height: 300px;
     float: left;
-    border: 1px solid #000000;
+    border: 5px solid #000000;
     text-align: center;
-    color: red;
+    color: white;
     line-height: 303px;
-    border-radius: 50%;
-    border-color: red;
-    background-color: white;
+    border-radius:50%;
+    border-color: white;
+    background-color: red;
+    
 }
 
 #label{
