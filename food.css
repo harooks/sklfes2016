@@ -31,8 +31,8 @@ main{
     height: 300px;
     margin: auto;
     margin-top: 15px;
-    border: 1px solid #000000;
-    background-color: 	#FFA500;
+    border: 1px solid white;
+    background-color: 	#FFDEAD;
     }
 
 .food img{
@@ -78,7 +78,7 @@ main{
 }
 #menu2 {
     float: right;
-    margin-right: 70px;
+    margin-right: 79px;
 }
 #menu2 ul{
     margin-left: 16px;
@@ -99,9 +99,128 @@ main{
     margin-left: 100px;
 }
 
-
-
-
+.menu p#toast{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #FF69B4;
+    color: white;
+    text-align: center;
+    line-height: 65px;
+    font-size: 20px;
+    position: absolute;
+      right: 640px;
+        
+}
+.menu p#dipping{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #87CEFA;
+    color: white;
+    text-align: center;
+    line-height: 65px;
+    font-size: 20px;
+    position: absolute;
+    right: 640px;
+        
+}
+.menu p#smores{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #D2691E;
+    color: white;
+    text-align: center;
+    line-height: 65px;
+    font-size: 20px;
+    position: absolute;
+    right: 640px;
+        
+}
+.menu p#egg{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #FF0000;
+    color: white;
+    text-align: center;
+    line-height: 65px;
+    font-size: 20px;
+    position: absolute;
+    right: 640px;
+        
+}
+.menu p#chinese{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 65px;
+    font-size: 20px;
+    position: absolute;
+    right: 640px;
+}
+p#pancake{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #ADFF2F;
+    color: white;
+    text-align: center;
+    line-height: 65px;
+    font-size: 20px;
+    position: absolute;
+    right: 640px;
+}
+p#italian{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #CD853F;
+    color: white;
+    text-align: center;
+    line-height: 65px;
+    font-size: 20px;
+    position: absolute;
+    right: 640px;
+}
+p#sweets{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #CD853F;
+    color: white;
+    text-align: center;
+    line-height: 65px;
+    font-size: 20px;
+    position: absolute;
+    right: 640px;
+}
+p#time{
+    width: 30px;
+    height: 20px;
+    color: white;
+    text-align: center;
+    line-height: 65px;
+    font-size: 12px;
+    position: absolute;
+    right: 659px; 
+    top: 2534px;
+}
+p#time2{
+    width: 30px;
+    height: 20px;
+    color: white;
+    text-align: center;
+    line-height: 65px;
+    font-size: 12px;
+    position: absolute;
+    right: 659px; 
+    top: 2616px;
+}
 
 
 
