@@ -10,13 +10,6 @@ body{
     background-color: white;
 }
 
-.a {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-}
-
 main{
     width: 970px;
     background: url(back1.jpg);
@@ -56,23 +49,40 @@ main{
     height: 350px;
 }
 
-.poster{
+.comment{
     clear: left;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-top: 50px;
-    width: 900px;
+    margin: auto;
+    width: 800px;
     height: 500px;
     border: 1px solid #000000;
 }
+.poster {
+  float: left;
+  width: 400px;
+  height: 500px;
+}
 
-.poster p{
-    font-size: 20px;
+.poster p {
+  font-size: 20px;
 }
 
 .poster img{
-    width: 300px;
-    padding: 20px;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+.SG {
+  float: right;
+  width: 400px;
+  height: 500px;
+}
+
+.SG p{
+  font-size: 20px;
+}
+
+.SG img {
+  margin-top: 5px;
 }
 
 

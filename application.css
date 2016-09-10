@@ -1,3 +1,7 @@
+@font-face {
+  font-family: 'sawarabi-mincho';
+  src: url(/sawarabi-mincho-medium.ttf);
+}
 
 *{
     margin: 0;
@@ -47,17 +51,31 @@ nav a.selected {
 #header{
     width: 1010px;
     height: 400px;
-   
     background-size: cover;
 }
 
 #title{
     width: 1010px;
     height: 350px;
-    color: white;
+    color: #00BFFF;
+}
+#header h1{
+  font-size: 50px;
+  font-family: cursive, 'sawarabi-mincho';
 }
 
 #main{
     width: 1010px;
+}
+
+.a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.a.hide {
+  display: none;
 }
 

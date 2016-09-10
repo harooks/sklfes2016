@@ -15,9 +15,7 @@ body{
     width: 100%;
 }
 
-#label{
-    font-size: 60px;
-}
+
 
 
 main{
@@ -31,7 +29,6 @@ main{
     height: 300px;
     margin: auto;
     margin-top: 15px;
-    border: 1px solid white;
     background-color: 	#FFDEAD;
     }
 
