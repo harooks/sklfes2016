@@ -1,3 +1,7 @@
+@font-face {
+  font-family: 'shunka';
+  src: url(/shunka.ttf);
+}
 
 body{
     background-image: url(back3.png);
@@ -23,6 +27,7 @@ main{
     width: auto;
 }
 
+/*
 .countdown{
     margin: 30px;
     width: 300px;
@@ -37,16 +42,27 @@ main{
     background-color: red;
     
 }
-
+*/
+.countdown{
+  width: 350px;
+  height:250px;
+  background-image: url(kokuban.png);
+  text-align: center;
+  float: left;
+  margin-top: 80px;
+}
 #label{
-    font-size: 60px;
+  font-size: 60px;
+  font-family: 'shunka';
+  line-height: 240px;
+  color: white;
 }
 
 .introduction img{
     float: left;
     margin: 30px;
     width: 550px;
-    height: 350px;
+    height: 330px;
 }
 
 .comment{
