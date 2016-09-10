@@ -47,9 +47,7 @@ nav a.selected {
 #header{
     width: 1010px;
     height: 400px;
-    border-top: 1px solid #000000;
-    border-left: 1px solid #000000;
-    border-right: 1px solid #000000;
+   
     background-size: cover;
 }
 

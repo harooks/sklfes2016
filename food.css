@@ -99,106 +99,66 @@ main{
     margin-left: 100px;
 }
 
+.menu, #menu {
+    position: relative;
+}
 .menu p#toast{
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
     background-color: #FF69B4;
-    color: white;
-    text-align: center;
-    line-height: 65px;
-    font-size: 20px;
-    position: absolute;
-      right: 640px;
         
 }
 .menu p#dipping{
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
     background-color: #87CEFA;
-    color: white;
-    text-align: center;
-    line-height: 65px;
-    font-size: 20px;
-    position: absolute;
-    right: 640px;
         
 }
 .menu p#smores{
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
     background-color: #D2691E;
-    color: white;
-    text-align: center;
-    line-height: 65px;
-    font-size: 20px;
-    position: absolute;
-    right: 640px;
         
 }
 .menu p#egg{
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
     background-color: #FF0000;
-    color: white;
-    text-align: center;
-    line-height: 65px;
-    font-size: 20px;
-    position: absolute;
-    right: 640px;
         
 }
 .menu p#chinese{
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
     background-color: black;
-    color: white;
-    text-align: center;
-    line-height: 65px;
-    font-size: 20px;
-    position: absolute;
-    right: 640px;
 }
 p#pancake{
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
     background-color: #ADFF2F;
-    color: white;
-    text-align: center;
-    line-height: 65px;
-    font-size: 20px;
-    position: absolute;
-    right: 640px;
 }
-p#italian{
+#italian{
+    background-color: #CD853F;
+}
+#sweets{
+    background-color: #CD853F;
+}
+.price {
     width: 70px;
     height: 70px;
     border-radius: 50%;
-    background-color: #CD853F;
     color: white;
     text-align: center;
     line-height: 65px;
     font-size: 20px;
     position: absolute;
-    right: 640px;
+    right: 315px;
 }
-p#sweets{
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-    background-color: #CD853F;
-    color: white;
-    text-align: center;
-    line-height: 65px;
-    font-size: 20px;
-    position: absolute;
-    right: 640px;
+
+.price.b {
+  line-height: 22px;
 }
+
+.price > span {
+  position: absolute;
+  width: 65px;
+  top: 16px;
+  left: 3px;
+}
+.time{
+  font-size: 16px;
+}
+
+
+/*
+
 p#time{
     width: 30px;
     height: 20px;
@@ -221,6 +181,7 @@ p#time2{
     right: 659px; 
     top: 2616px;
 }
+*/
 
 
 
