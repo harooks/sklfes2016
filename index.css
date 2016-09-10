@@ -89,8 +89,8 @@ main{
 
 .SG {
   float: right;
-  width: 400px;
-  height: 500px;
+  width: 350px;
+  height: 450px;
 }
 
 .SG p{
@@ -100,6 +100,37 @@ main{
 .SG img {
   margin-top: 5px;
 }
+
+.poster {
+  position: relative;
+}
+
+.poster .interview{
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 5px;
+  width: 300px;
+  height: 450px;
+  background-color: rgba(255,255,255,0.9);
+  display: none;
+  }
+
+.poster:hover .interview{
+  display: block;
+}
+
+.SG .interview2{
+  position: absolute;
+  width: 350px;
+  height: 453px;
+  background-color: rgba(255,255,255,0.9);
+  display: none;
+  }
+
+.SG:hover .interview2{
+  display: block;
+}
+
 
 
 
