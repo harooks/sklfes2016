@@ -15,9 +15,6 @@ body{
     width: 100%;
 }
 
-
-
-
 main{
     width: 970px;
     background: url(back1.jpg);
@@ -49,12 +46,15 @@ main{
     font-size: 20px;
     text-align: center;
 }
-
+.menu .name3{
+  font-weight: bold;
+}
 .menu h3{
     text-align: center;
 }
 .menu p{
     margin-left: 160px;
+    font-weight: bold;
 }
 .menu ul{
     margin-left: 178px;
@@ -62,6 +62,10 @@ main{
 }
 .menu .name2{
     margin-left: 100px;
+  font-weight: bold;
+}
+#menu .name{
+  font-weight: bold;
 }
 #menu h3{
     text-align: center;
@@ -95,6 +99,9 @@ main{
 #pm ul{
     margin-left: 100px;
 }
+#pm ul{
+  font-weight: bold;
+}
 
 .menu, #menu {
     position: relative;
@@ -121,12 +128,14 @@ main{
 p#pancake{
     background-color: #ADFF2F;
 }
+/*
 #italian{
     background-color: #CD853F;
 }
 #sweets{
     background-color: #CD853F;
 }
+*/
 .price {
     width: 70px;
     height: 70px;
@@ -138,7 +147,15 @@ p#pancake{
     position: absolute;
     right: 315px;
 }
+.menu3 ul{
+  font-weight: bold;
+}
 
+.menu3{
+  margin-left: -30px;
+}
+
+/*
 .price.b {
   line-height: 22px;
 }
@@ -152,6 +169,7 @@ p#pancake{
 .time{
   font-size: 16px;
 }
+*/
 
 
 /*
