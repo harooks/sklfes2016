@@ -15,8 +15,33 @@ body{
     width: 100%;
 }
 
-main{
-    width: 970px;
+#main{
+/*    width: 970px;*/
     background: url(back1.jpg);
-    padding: 20px;
 }
+#main h1{
+  margin-left: 20px;
+}
+.update{
+  margin-left: 20px
+}
+
+.day1{
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: 3px solid forestgreen;
+}
+.day1 h2{
+  margin-left: 5px;
+}
+.day1 p{
+  margin-left: 5px;
+}
+.day1 img{
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+
+
