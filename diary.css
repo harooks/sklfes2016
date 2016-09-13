@@ -27,20 +27,20 @@ body{
   margin-left: 20px
 }
 
-.day1{
+.day{
   margin-top: 10px;
   margin-left: 20px;
   margin-right: 20px;
   border: 3px solid forestgreen;
 }
-.day1 h2{
+.day h2{
   margin-left: 5px;
 }
-.day1 p{
+.day p{
   margin-left: 5px;
 }
-.day1 img{
-  margin-left: 12px;
+.day img{
+  margin-left: 5px;
   margin-top: 10px;
 }
 

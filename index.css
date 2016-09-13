@@ -81,7 +81,7 @@ main{
     margin: auto;
     width: 800px;
     height: 910px;
-    border: 1px solid #000000;
+    border: 3px solid forestgreen;
 }
 .poster {
   float: left;
