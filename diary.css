@@ -16,9 +16,10 @@ body{
 }
 
 #main{
-/*    width: 970px;*/
-    background: url(back1.jpg);
+    background-color: #d4fcbc;
+    padding: 20px;
 }
+
 #main h1{
   margin-left: 20px;
 }

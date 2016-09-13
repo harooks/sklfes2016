@@ -16,7 +16,8 @@ body{
 
 main{
     width: 970px;
-    background: url(back1.jpg);
+    height: 1500px;
+    background-color: #d4fcbc;
     padding: 20px;
 }
 
@@ -63,7 +64,7 @@ main{
     margin: 30px;
     width: 550px;
     height: 490px;
-    border: 5px solid forestgreen;
+    border: 3px solid forestgreen;
 }
 .introduction h2{
   text-align: center;
@@ -79,16 +80,17 @@ main{
     clear: left;
     margin: auto;
     width: 800px;
-    height: 500px;
+    height: 910px;
     border: 1px solid #000000;
 }
 .poster {
   float: left;
-  width: 400px;
-  height: 500px;
+  width: 800px;
+  height: 450px;
+  position: relative;
 }
 
-.poster p {
+.poster h1{
   font-size: 20px;
 }
 
@@ -98,9 +100,9 @@ main{
 }
 
 .SG {
-  float: right;
-  width: 350px;
-  height: 450px;
+  width: 800px;
+  height: 500px;
+    float: left;
 }
 
 .SG p{
@@ -109,11 +111,42 @@ main{
 
 .SG img {
   margin-top: 5px;
+  float: left;
 }
 
-.poster {
-  position: relative;
+.interview{
+    margin: auto;
+    width: 450px;
+    height: 400px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 5px;
 }
+
+.interview h4{
+    color: green;
+    margin-top: 5px;
+}
+
+.interview p{
+    font-size: 13px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
+
+.SG .interview{
+    height: 400px;
+}
+
+.SG .osusume{
+    font-size: 13px;
+}
+
+.interview img{
+    margin: auto;
+    padding-left: 165px;
+}
+
 
 /*
 .poster .interview{
