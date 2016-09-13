@@ -59,11 +59,21 @@ main{
   color: white;
 }
 
-.introduction img{
+.introduction {
     float: left;
     margin: 30px;
     width: 550px;
-    height: 330px;
+    height: 490px;
+    border: 5px solid forestgreen;
+}
+.introduction h2{
+  text-align: center;
+  color: red;
+}
+.introduction .leader{
+  margin-top: 20px;
+  margin-left: 5px; 
+  margin-right: 5px;
 }
 
 .comment{
