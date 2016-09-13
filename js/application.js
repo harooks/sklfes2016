@@ -5,9 +5,9 @@ window.onload = function () {
     var delta = (day_fes - now) / 86400000;
     if(label != null) {
       if (delta > -1 && delta <= 0) {
-        label.textContent = "学園祭初日!";
+        label.textContent = "文化祭初日!";
       } else if (delta > -2 && delta <= -1) {
-          label.textContent = "学園祭2日目!";
+          label.textContent = "文化祭2日目!";
       } else {
           label.textContent = "残り" + Math.floor(delta) + "日";
       }
