@@ -15,17 +15,11 @@ body{
     width: 100%;
 }
 
-<<<<<<< HEAD
-main{
-    width: 970px;
+#main{
     background-color: #d4fcbc;
     padding: 20px;
-=======
-#main{
-/*    width: 970px;*/
-    background: url(back1.jpg);
->>>>>>> 5a7efd4a910ee2c36d18828e58af038227d10027
 }
+
 #main h1{
   margin-left: 20px;
 }
