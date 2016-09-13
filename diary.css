@@ -39,8 +39,13 @@ body{
 .day p{
   margin-left: 5px;
 }
+<<<<<<< HEAD
 .day img{
   margin-left: 5px;
+=======
+.day1 img{
+  margin-left: 3px;
+>>>>>>> adaabd8d809ef11408248290b1a964d4801ec755
   margin-top: 10px;
 }
 
