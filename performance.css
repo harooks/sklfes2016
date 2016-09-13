@@ -32,7 +32,7 @@ main{
     position: relative;
 }
 
-.club .caption{
+.club .caption {
     position: absolute;
     top: 0;
     left: 0;
@@ -47,7 +47,7 @@ main{
     font-size: 24px;
     text-align: center;
 }
-.club .caption h2{
+.club .caption h2 {
      text-align: center;
 }
 .club .caption .comment{
@@ -56,7 +56,9 @@ main{
     margin-left: 10px;
     margin-right: 10px;
 }
-
+.club .caption .time{
+  font-size: 20px;
+}
 
 .club:hover .caption{
     display: block;
