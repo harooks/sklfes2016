@@ -70,18 +70,20 @@ main{
 }
 .introduction h2{
   text-align: center;
-  color: red;
+  color: forestgreen;
 }
 .intro{
     text-align: center;
     font-size: 14px;
 }
-.introduction .leader{
+.introduction .leader h4{
+  margin-left: 5px;
     
 }
 
 .introduction .leader p{
     font-size: 15px;
+  margin-left: 5px;
 }
 
 .news{
@@ -94,20 +96,34 @@ main{
     border: 3px solid forestgreen;
 }
 
-.new{
+.news{
     margin-left: none;
 }
 
-.news h7{
-    margin-left:40px;
-    margin-bottom: 10px;
+.news h3{
+  text-align: center;
+  color: red;
 }
 
+.news .update{
+  margin-left: 5px;
+  margin-bottom: 2px;
+}
+.news a{
+  margin-left: 5px;
+  color: red;
+  text-decoration: none;
+}
+.news a:hover{
+  text-decoration: underline;
+}
+/*
 .update{
     color:red;
     float: left;
     margin-left: 5px;
 }
+*/
 
 .comment{
     clear: left;
@@ -170,6 +186,7 @@ h2{
 .interview h4{
     color: green;
     margin-top: 5px;
+
 }
 
 .interview p{
