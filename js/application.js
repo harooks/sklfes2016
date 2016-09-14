@@ -1,10 +1,10 @@
 window.onload = function () {
     var label = document.getElementById("label");
     var now = new Date();
-    var day_fes = new Date(2016, 8, 17);
+    var day_fes = new Date(2016, 8, 18);
     var delta = (day_fes - now) / 86400000;
     if(label != null) {
-      if (delta > -1 && delta <= 0) {
+      if (delta > -1 && delta <= 1) {
         label.textContent = "文化祭初日!";
       } else if (delta > -2 && delta <= -1) {
           label.textContent = "文化祭2日目!";
