@@ -40,6 +40,14 @@ body{
   margin-left: 5px;
 }
 
+.club{
+    float: right;
+    margin-top:10px;
+    width:600px;
+}
+
+
+
 .day img{
   margin-left: 5px;
   margin-left: 3px;

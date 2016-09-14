@@ -16,7 +16,7 @@ body{
 
 main{
     width: 970px;
-    height: 1500px;
+    height: 1600px;
     background-color: #d4fcbc;
     padding: 20px;
 }
@@ -50,7 +50,8 @@ main{
   background-image: url(kokuban.png);
   text-align: center;
   float: left;
-  margin-top: 80px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 #label{
   font-size: 60px;
@@ -60,20 +61,52 @@ main{
 }
 
 .introduction {
-    float: left;
-    margin: 30px;
-    width: 550px;
-    height: 490px;
+    clear: left;
+    margin: auto;
+    width: 800px;
+    height: 300px;
     border: 3px solid forestgreen;
+    margin-bottom: 10px;
 }
 .introduction h2{
   text-align: center;
   color: red;
 }
+.intro{
+    text-align: center;
+    font-size: 14px;
+}
 .introduction .leader{
-  margin-top: 20px;
-  margin-left: 5px; 
-  margin-right: 5px;
+    
+}
+
+.introduction .leader p{
+    font-size: 15px;
+}
+
+.news{
+    float: left;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    width: 550px;
+    height: 200px;
+    border: 3px solid forestgreen;
+}
+
+.new{
+    margin-left: none;
+}
+
+.news h7{
+    margin-left:40px;
+    margin-bottom: 10px;
+}
+
+.update{
+    color:red;
+    float: left;
+    margin-left: 5px;
 }
 
 .comment{
@@ -83,11 +116,20 @@ main{
     height: 910px;
     border: 3px solid forestgreen;
 }
+
+h2{
+    text-align: center;
+}
+
+.comment h4{
+    text-align: center;
+}
 .poster {
   float: left;
   width: 800px;
   height: 450px;
   position: relative;
+  margin-bottom: 15px;
 }
 
 .poster h1{
@@ -102,7 +144,7 @@ main{
 .SG {
   width: 800px;
   height: 500px;
-    float: left;
+  float: left;
 }
 
 .SG p{
