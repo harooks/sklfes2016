@@ -57,8 +57,14 @@ nav a.selected {
 #title{
     width: 1010px;
     height: 350px;
-    color: #006699;
+    color: #FF9933;
+    text-shadow:
+		-1px -1px #000,
+		1px -1px #000,
+		-1px 1px #000,
+		1px 1px #000;
 }
+
 #header h1{
   font-size: 60px;
   font-family: cursive, 'sawarabi-mincho';
