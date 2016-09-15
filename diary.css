@@ -43,19 +43,14 @@ body{
 }
 
 .day img{
-  margin-left: 5px;
   margin-left: 3px;
   margin-top: 10px;
 }
-.day3 img{
-  margin-left: 5px;
-  margin-left: 3px;
-  margin-top: 10px;
+.day h3{
+    margin-top: 10px;
 }
 
-.pic1{
-   margin-right: 10px; 
-}
+
 
 
 
