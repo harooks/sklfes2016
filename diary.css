@@ -34,9 +34,7 @@ body{
   border: 3px solid forestgreen;
 }
 
-.day .club{
-  
-}
+
 .day h2{
   margin-left: 5px;
 }
@@ -44,15 +42,12 @@ body{
   margin-left: 5px;
 }
 
-.club{
-    float: right;
-    margin-top:10px;
-    width:600px;
-}
-
-
-
 .day img{
+  margin-left: 5px;
+  margin-left: 3px;
+  margin-top: 10px;
+}
+.day3 img{
   margin-left: 5px;
   margin-left: 3px;
   margin-top: 10px;
