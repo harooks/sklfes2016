@@ -238,5 +238,15 @@ h2{
 
 */
 
+.counter{
+    color: #d4fcbc;
+    z-index:2;
+    clear: left;
+}
+
+.real{
+    z-index: 1;
+}
+
 
 

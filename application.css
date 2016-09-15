@@ -57,12 +57,22 @@ nav a.selected {
 #title{
     width: 1010px;
     height: 350px;
-    color: #00BFFF;
+    color: #006699;
 }
 #header h1{
+  font-size: 60px;
+  font-family: cursive, 'sawarabi-mincho';
+  margin-top: 150px;
+  margin-left: 450px;
+}
+
+#header h2{
   font-size: 50px;
   font-family: cursive, 'sawarabi-mincho';
+  margin-left: 470px;
 }
+
+
 
 #main{
     width: 970px;
