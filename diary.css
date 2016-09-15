@@ -33,6 +33,10 @@ body{
   margin-right: 20px;
   border: 3px solid forestgreen;
 }
+
+.day .club{
+  
+}
 .day h2{
   margin-left: 5px;
 }
@@ -57,6 +61,7 @@ body{
 .pic1{
    margin-right: 10px; 
 }
+
 
 
 

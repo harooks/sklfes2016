@@ -125,9 +125,14 @@ main{
 .menu p#chinese{
     background-color: black;
 }
+
+.menu p#tea{
+  background-color: #FF4500;
+}
 p#pancake{
     background-color: #ADFF2F;
 }
+
 /*
 #italian{
     background-color: #CD853F;
