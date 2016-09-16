@@ -50,6 +50,32 @@ body{
     margin-top: 10px;
 }
 
+.day a{
+  text-decoration: none;
+  color: red;
+}
+
+.day a:hover{
+  text-decoration: underline;
+}
+
+.day .yeyy{
+  width: 900px;
+  height: 180px;
+}
+
+.day .yeyy p{
+  margin-top: 5px;
+}
+
+.day .yeyy img{
+  float: left;
+  margin-left: 50px;
+}
+
+
+
+
 
 
 
