@@ -27,23 +27,6 @@ main{
     display: block;
     width: auto;
 }
-
-/*
-.countdown{
-    margin: 30px;
-    width: 300px;
-    height: 300px;
-    float: left;
-    border: 5px solid #000000;
-    text-align: center;
-    color: white;
-    line-height: 303px;
-    border-radius:50%;
-    border-color: white;
-    background-color: red;
-    
-}
-*/
 .countdown{
   width: 350px;
   height:250px;
@@ -53,6 +36,7 @@ main{
   margin-top: 30px;
   margin-bottom: 30px;
 }
+
 #label{
   font-size: 60px;
   font-family: 'shunka';
@@ -259,13 +243,21 @@ h2{
 */
 
 .counter{
+    width: 200px;
+    height: 30px;
     color: #d4fcbc;
-    z-index:2;
-    clear: left;
+    float: right;
+    margin:　10px;
+    margin-right: 200px;
+    margin-top: 5px;
 }
 
-.real{
-    z-index: 1;
+.anataha{
+    margin-left: 530px;
+}
+
+.ninn{
+    margin-left: 650px;
 }
 
 
