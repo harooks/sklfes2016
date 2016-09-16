@@ -75,10 +75,10 @@ main{
 .news{
     float: left;
     margin-left: 30px;
-    margin-top: 50px;
+    margin-top: 20px;
     margin-bottom: 10px;
     width: 550px;
-    height: 200px;
+    height: 180px;
     border: 3px solid forestgreen;
     margin-left: none;
     overflow: scroll;
@@ -87,7 +87,7 @@ main{
 
 .news h3{
   text-align: center;
-  color: red;
+  color: forestgreen;
 }
 
 .news .update{
@@ -244,6 +244,9 @@ h2{
 
 */
 
+.welcome{
+   margin-left: 400px;
+}
 
 .counter{
     width: 200px;
@@ -255,10 +258,8 @@ h2{
 }
 
 .anataha{
-    margin-left: 530px;
+    margin-left: 450px;
     z-index: 2;
-    clear: left;
-
 }
 
 .ninn{
