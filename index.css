@@ -14,6 +14,8 @@ body{
     background-color: white;
 }
 
+
+
 main{
     width: 970px;
     height: 2000px;
@@ -242,10 +244,12 @@ h2{
 
 */
 
+/*
 .counter{
     width: 200px;
     height: 30px;
     color: #d4fcbc;
+<<<<<<< HEAD
     float: right;
     margin:　10px;
     margin-right: 200px;
@@ -254,11 +258,19 @@ h2{
 
 .anataha{
     margin-left: 530px;
+=======
+    z-index: 2;
+    clear: left;
+>>>>>>> 28b572822f517d9dcf5eb03876042fe4ea03e3b1
 }
+*/
 
+<<<<<<< HEAD
 .ninn{
     margin-left: 650px;
 }
+=======
+>>>>>>> 28b572822f517d9dcf5eb03876042fe4ea03e3b1
 
 
 
