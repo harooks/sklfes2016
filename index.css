@@ -40,9 +40,10 @@ main{
 }
 
 #label{
-  font-size: 55px;
+  padding-top: 70px;
+  font-size: 40px;
   font-family: 'shunka';
-  line-height: 240px;
+  line-height: 50px;
   color: white;
 }
 
