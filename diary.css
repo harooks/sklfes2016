@@ -73,3 +73,7 @@ body{
   margin-left: 50px;
 }
 
+#awards{
+    font-family: monospace;
+    font-size: 15px;
+}
