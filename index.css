@@ -103,13 +103,6 @@ main{
 .news a:hover{
   text-decoration: underline;
 }
-/*
-.update{
-    color:red;
-    float: left;
-    margin-left: 5px;
-}
-*/
 
 .precaution{
   clear: left;
@@ -137,11 +130,6 @@ main{
     border: 3px solid forestgreen;
 }
 
-/*
-h2{
-    text-align: center;
-}
-*/
 .comment h2{
   text-align: center;
 }
@@ -155,10 +143,6 @@ h2{
   height: 450px;
   position: relative;
   margin-bottom: 15px;
-}
-
-.poster h1{
-  font-size: 20px;
 }
 
 .poster img{
@@ -213,10 +197,6 @@ h2{
 .interview img{
     margin: auto;
     padding-left: 165px;
-}
-
-.welcome{
-   margin-left: 400px;
 }
 
 .counter{
